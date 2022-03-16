@@ -1,0 +1,54 @@
+VITAL STATS
+more or less health bars
+most enemies use these as health bars too
+	WILLPOWER
+		keeps soul tethered to "body"
+		when it runs out, go to "hell"
+		physical damage hits this stat
+		physical damage could also be based off this stat
+		healed passively slowly
+		enemies that aren't sentient don't use this stat
+
+	SANITY
+		mental fortitude
+		responsible for maintaining sense of self
+		when it runs out, become corrupted and mutate
+		mental damage hits this stat
+		healed by meditating or something
+		already insane enemies and enemies that aren't sentient don't use this stat
+	
+	some 3rd stat that's basically how well ur code functions
+		when it runs out, encounter a fatal error and u just crash
+		healed by debugging
+		
+	FIREWALL
+		shield like buffer that protects against certain types of attacks
+		uses bandwidth every turn
+		can be repaired at the cost of PP
+		most digital attacks deal reduced damage to it
+		most physical attacks either deal bonus damage or just ignore completely
+		many units in the game simply don't have one
+		if it runs out, attacks deal damage to ur other vital stats
+
+
+PROCESSING POWER - PP
+main gimmick of combat
+primary combat stat
+recharges each turn
+the more PP missing the slower it recharges
+	allows for major turns where u dump all ur PP but have to slowly recharge
+determined by several things
+	
+	PROCESSING SPEED
+		part of ur speed stat
+		increases power of some types of attacks
+	
+	PROCESSING BANDWIDTH
+		allows for more concurrent effects with less impact on PP
+		increases power of some types of attacks
+	
+	STORAGE
+		inventory space more or less
+		smaller max storage increases processing speed
+		higher max storage increases bandwidth
+		using smaller % of max storage increases processing speed
