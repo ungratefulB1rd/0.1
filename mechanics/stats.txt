@@ -5,7 +5,7 @@ most enemies use these as health bars too
 		keeps soul tethered to "body"
 		when it runs out, go to "hell"
 		physical damage hits this stat
-		physical damage could also be based off this stat
+		physical attacks could also be based off this stat
 		healed passively slowly
 		enemies that aren't sentient don't use this stat
 
