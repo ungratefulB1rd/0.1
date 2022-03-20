@@ -17,9 +17,6 @@ most enemies use these as health bars too
 		healed by meditating or something
 		already insane enemies and enemies that aren't sentient don't use this stat
 	
-	some 3rd stat that's basically how well ur code functions
-		when it runs out, encounter a fatal error and u just crash
-		healed by debugging
 		
 	FIREWALL
 		shield like buffer that protects against certain types of attacks
