@@ -10,3 +10,7 @@ chronotrigger uses handmade encounters that i think works well
 few fights but memorable fights
 i need to play chrono trigger
 add enough content outside combat to keep combat refreshing
+
+diverse cast of enemies is important too
+instead of relying on a strong gimmick to keep combat engaging,
+use a strong cast of enemies to keep it fresh and slowly introduce new mechanics/challenge ideas
