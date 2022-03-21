@@ -1,0 +1,40 @@
+
+decide on your constraints and build around them
+use them for inspiration
+judge ideas with 4 metrics.
+	design space
+		how much can be made with this idea
+	design weight
+		how much does this idea dictate design
+	how far from the norm is this
+		how much will players accept it
+	production capability
+		how easily can it be produced
+graph ideas on 2 axis
+	excitement potential
+	obstacles
+complexity needs to enhance ur game
+	complexity for complexity's sake is bad
+	if it can be taken out and doesn't hurt ur game, consider taking it out
+	if it distracts too much from main focus, reconsider it
+people will get in their own way
+	find ways to keep the player on rails
+find ur core essence and get rid of everything but the core essence
+top down vs bottom up design
+	top down
+	bottom up
+vision> mechanics> gameplay
+	vision
+	mechanics
+	gameplay
+understand how other ppl on the team design
+research
+	what ppl love abt similar games
+	what ppl want that they aren't getting
+what do we want ppl to enjoy from our game
+	mastery loops
+understand ur audience
+understand ur tools
+play a lot of games and make a lot of games
+always have a target or goal ur working towards
+restrictions breed creativity
