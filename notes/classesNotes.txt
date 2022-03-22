@@ -1,0 +1,45 @@
+classes give unique experiences
+help dif ppl find dif ways to enjoy games
+classes within classes
+	tracer/ror2-huntress/dnd-rogue
+
+HOLY TRINITY
+dps - primary source of damage
+	essentially has 2 jobs
+		deal damage
+		stay alive
+	usually squishy for balance
+tank - frontline and cc
+	has several jobs
+		SOAK DAMAGE
+		support w cc
+		deal enough damage to draw aggro
+healer
+	subclass of support
+	job is almost exclusively heals
+		keep tank alive to soak damage
+		keep dps alive to deal damage
+	doesn't interact with enemies in the same way
+strengths
+	roles cover each other's weaknesses
+	great synergy for parties of 3
+flaws
+	doesn't work as well outside multiples of 3
+	restricts mechanics to certain roles
+		doesn't allow for characters like pyke or vi
+	leads to things like role lock in overwatch
+	forces roles to interact w the game in certain ways
+	games designed around trinity don't support other compositions v well
+
+
+FIXING THESE FLAWS
+	give every class general skills but each class their own specialized skills
+	more general skills = broader more flexible game
+		better for single player
+	more specialized skills = tighter stricter game
+		better for multiplayer
+SPECIALIZATION INSIDE CLASSES
+	skill trees
+	unique abilities within classes
+		not just unique visuals or damage
+		unique subtypes as a whole
